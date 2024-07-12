@@ -24,7 +24,7 @@ export default function App() {
           drawerActiveBackgroundColor:'white',
           drawerActiveTintColor: 'black',
         }}>
-         <Drawer.Screen name='Abdulrauf' component={Home}/>
+         <Drawer.Screen name='Abdulrauf Remi' component={Home}/>
         <Drawer.Screen name="Home" component={Home} />
         <Drawer.Screen name='Item' component={Item}/>
         <Drawer.Screen name="Cart" component={Cart} />
