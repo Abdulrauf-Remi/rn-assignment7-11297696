@@ -58,7 +58,7 @@ This repository contains the code for the seventh assignment of my Mobile Applic
 
 ## How I Built the Application
 
-The application was built following the instructions of the assignment, which required building upon a given UI mockup. I started by setting up a new Expo project and installing the necessary dependencies for navigation, icons, and data fetching. The application features a drawer navigator with screens for Home, Product Details, and Cart. Each screen was styled to closely match the provided UI design using custom components and React Native's styling system.
+The application was built following the instructions of the assignment, which required building upon a given UI mockup. I started by setting up a new Expo project, installing the necessary dependencies for navigation, icons, and data fetching. The application features a drawer navigator with screens for Home, Product Details, and Cart. Each screen was styled to closely match the provided UI design using custom components and React Native's styling system.
 
 ## Project Description
 
