@@ -34,27 +34,27 @@ This repository contains the code for the seventh assignment of my Mobile Applic
 
 ### Home Screen
 
-![Home Screen](./pg1.jpg)
+![Home Screen](./assets/pg1.jpg)
 
 ### Product Detail Screen
 
-![Product Detail Screen](./pg2.jpg)
+![Product Detail Screen](./assets/pg2.jpg)
 
 ### Cart Screen 1
 
-![Cart Screen 1](./pg3.jpg)
+![Cart Screen 1](./assets/pg3.jpg)
 
 ### Cart Screen 2
 
-![Cart Screen 2](./pg4.jpg)
+![Cart Screen 2](./assets/pg4.jpg)
 
 ### Cart Screen 3
 
-![Cart Screen 3](./pg5.jpg)
+![Cart Screen 3](./assests/pg5.jpg)
 
 ### Product Screen
 
-![Product Screen](./pg6.jpg)
+![Product Screen](./assets/pg6.jpg)
 
 ## How I Built the Application
 
